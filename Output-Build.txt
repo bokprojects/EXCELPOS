@@ -1,0 +1,18 @@
+﻿Build started...
+1>------ Build started: Project: ExcelPOS, Configuration: Debug Any CPU ------
+1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2304,5): warning MSB3270: There was a mismatch between the processor architecture of the project being built "MSIL" and the processor architecture of the reference "System.Data.SQLite", "AMD64". This mismatch may cause runtime failures. Please consider changing the targeted processor architecture of your project through the Configuration Manager so as to align the processor architectures between your project and references, or take a dependency on references with a processor architecture that matches the targeted processor architecture of your project.
+1>C:\Users\BOK\source\repos\ExcelPOS\Validation\Validation.cs(20,30,20,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Validation\Validation.cs(38,13,38,19): warning CS0162: Unreachable code detected
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(26,30,26,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(42,30,42,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Validation\Validation.cs(76,30,76,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(56,30,56,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(82,30,82,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Validation\Validation.cs(110,30,110,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(96,30,96,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DefaultValues.cs(110,30,110,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DataProcess.cs(42,30,42,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Process\DataProcess.cs(172,30,172,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\BOK\source\repos\ExcelPOS\Views\frmSettings.cs(125,30,125,32): warning CS0168: The variable 'ex' is declared but never used
+1>  ExcelPOS -> C:\Users\BOK\source\repos\ExcelPOS\bin\Debug\ExcelPOS.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
