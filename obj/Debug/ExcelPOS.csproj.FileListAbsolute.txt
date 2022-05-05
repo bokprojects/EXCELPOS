@@ -26,3 +26,32 @@ C:\Users\BOK\source\repos\ExcelPOS\obj\Debug\ExcelPOS.csproj.CoreCompileInputs.c
 C:\Users\BOK\source\repos\ExcelPOS\obj\Debug\ExcelPOS.csproj.CopyComplete
 C:\Users\BOK\source\repos\ExcelPOS\obj\Debug\ExcelPOS.exe
 C:\Users\BOK\source\repos\ExcelPOS\obj\Debug\ExcelPOS.pdb
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\Reference\ItemDB.xlsx
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\Reference\Output.xlsx
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\Settings.ini
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\ExcelPOS.exe.config
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\ExcelPOS.exe
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\ExcelPOS.pdb
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\EPPlus.dll
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\System.Data.SQLite.dll
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\System.Data.SQLite.pdb
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\System.Data.SQLite.xml
+C:\Users\BOK\source\repos\DONY EXCEL POS\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.csproj.AssemblyReference.cache
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.POS.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Properties.Resources.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmDataBuilder.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmEditDetails.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmManualScanning.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmOut.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmReject.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmSettings.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmSourceInfo.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.frmSourceItems.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.Views.LoadDataToDataTable.resources
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.csproj.GenerateResource.cache
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.csproj.CoreCompileInputs.cache
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.csproj.CopyComplete
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.exe
+C:\Users\BOK\source\repos\DONY EXCEL POS\obj\Debug\ExcelPOS.pdb
